@@ -7,6 +7,8 @@ namespace assignment__02_C__basic
     {
         static void Main(string[] args)
         {
+            // C# Basic
+            
             #region Q1 Write a program that allows the user to enter a number then print it
             //Console.WriteLine("please enter number :");
             //int number= int.Parse(Console.ReadLine());
